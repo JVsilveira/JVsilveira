@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jvsilveira">
-    <img src="https://img.shields.io/github/followers/jvsilveira?label=Followers&style=for-the-badge" />
-  </a>
-
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-Node/Java-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge" />
@@ -19,7 +15,6 @@
 # Sobre mim
 
 - Desenvolvedor Full Stack
-- Focado em Backend 
 - Construindo aplicações modernas e escaláveis
 - Experiência com automação e processamento de PDFs
 - Estudando arquitetura de software e boas práticas
@@ -134,13 +129,6 @@ Aplicação Full Stack para gerenciamento e consulta de bactérias com armazenam
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jvsilveira&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 # Contato
 
@@ -149,7 +137,6 @@ Aplicação Full Stack para gerenciamento e consulta de bactérias com armazenam
   <a href="https://linkedin.com/in/joao-vitor-dos-santos-silveira">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
   <a href="https://instagram.com/jvsilveira_03">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
