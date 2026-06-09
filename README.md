@@ -142,8 +142,4 @@ Aplicação Full Stack para gerenciamento e consulta de bactérias com armazenam
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-</p>
