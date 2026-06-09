@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Node/Java-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node/Java-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React-white?style=for-the-badge" />
 </p>
 
 ---
