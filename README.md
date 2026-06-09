@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/jvsilveira">
+    <img src="https://img.shields.io/github/followers/jvsilveira?label=Followers&style=for-the-badge" />
   </a>
 
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge" />
 </p>
 
