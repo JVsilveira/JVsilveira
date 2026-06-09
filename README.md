@@ -10,7 +10,7 @@
   </a>
 
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node/Java-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge" />
 </p>
 
@@ -44,12 +44,10 @@
 ## Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+
 
 ## Ferramentas
 
